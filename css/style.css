@@ -5,10 +5,28 @@
  *
  * Made By MaterializeCSS.com
  */
+body{
+	background: url("../images/backdrop.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
+.light-blue.lighten-1
+{
+	background-color: none;
+	box-shadow: none;
+
+}
 .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
 	font-size: inherit;
+}
+
+a#logo-container.brand-logo
+{
+	padding-top: 10px;
 }

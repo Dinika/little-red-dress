@@ -756,7 +756,7 @@
 }
 
 .light-blue {
-  background-color: #03a9f4 !important;
+  background-color: none !important;
 }
 
 .light-blue-text {
@@ -796,7 +796,7 @@
 }
 
 .light-blue.lighten-1 {
-  background-color: #29b6f6 !important;
+  background-color: none !important;
 }
 
 .light-blue-text.text-lighten-1 {
@@ -4067,7 +4067,7 @@ input[type=range] + .thumb {
 
 nav {
   color: #fff;
-  background-color: #ee6e73;
+  background-color: none;
   width: 100%;
   height: 56px;
   line-height: 56px;
