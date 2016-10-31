@@ -1652,11 +1652,11 @@
 }
 
 .orange {
-  background-color: #ff9800 !important;
+  background-color: #444 !important;
 }
 
 .orange-text {
-  color: #ff9800 !important;
+  color: #444 !important;
 }
 
 .orange.lighten-5 {
@@ -2387,6 +2387,7 @@ sub {
  */
 img {
   border: 0;
+  padding-top: 20%;
 }
 
 /**
@@ -3422,7 +3423,7 @@ input[type=range] + .thumb {
 
 @media only screen and (min-width: 993px) {
   .container {
-    width: 70%;
+    width: 95%;
   }
 }
 
@@ -4294,8 +4295,8 @@ a {
 }
 
 html {
-  line-height: 1.5;
-  font-family: "Roboto", sans-serif;
+  line-height: 7;
+  font-family: 'Wellfleet', cursive;
   font-weight: normal;
   color: rgba(0, 0, 0, 0.87);
 }
